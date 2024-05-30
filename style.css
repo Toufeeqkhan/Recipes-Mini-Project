@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main-heading{
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+img{
+   
+}
+h3{
+    padding: 10px;
+    font-size: 28px;
+    text-align: center;
+}
+body{
+    background-color: rgba(0, 0, 0, 0.836);
+    color: white;
+}
+.card{
+    width: 400px;
+    overflow: hidden;
+    border-radius: 20px;
+    border: 1px solid grey;
+    
+}
+.flex{
+    margin: 20px;
+    display: flex;
+    justify-content: space-between;
+}
